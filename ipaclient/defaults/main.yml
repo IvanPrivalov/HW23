@@ -1,0 +1,7 @@
+---
+ipaclient_domain: otus.lab
+ipaclient_realm: OTUS.LAB
+ipaserver_hostname: ipaserver.otus.lab
+ipa_principal: admin
+ipaserver_adminspassword: passw0rd!
+ipaserver_ipaddress: '192.168.10.10'
