@@ -20,9 +20,9 @@ vagrant up
 
 В результате выполнения ДЗ были написаны две ansible-роли, которые конфигурируют хост ipaserver в качестве FreeIPA сервера и вводят в домен otus.lab хост ipaclient, создают пользователя Ivan, которому разрешено логиниться на хосты в домене с помощью публичного ключа ssh. 
 
-![image 1](https://github.com/IvanPrivalov/HW23/screens/1.png)
+![image 1](https://github.com/IvanPrivalov/HW23/blob/master/screens/1.png)
 
-![image 2](https://github.com/IvanPrivalov/HW23/screens/2.png)
+![image 2](https://github.com/IvanPrivalov/HW23/blob/master/screens/2.png)
 
 ## Проверка аутентификации по SSH-ключу:
 
